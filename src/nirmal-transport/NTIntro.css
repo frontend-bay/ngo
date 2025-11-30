@@ -1,0 +1,23 @@
+.container {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    text-align: center;
+}
+
+.body-content {
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+}
+
+
+.vision-mission {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
