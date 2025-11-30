@@ -1,0 +1,87 @@
+.container {
+font-family: Arial, sans-serif;
+width: 100%;
+text-align: center;
+}
+
+
+.header {
+display: flex;
+align-items: center;
+padding: 10px 20px;
+background-color: #f5f5f5;
+border-bottom: 1px solid #ccc;
+}
+
+
+.logo {
+width: 120px;
+height: 120px;
+margin-right: 20px;
+}
+
+.founder-logo {
+width: 200x;
+height: 200px;
+margin-right: 20px;
+}
+
+
+.org-name {
+font-size: 28px;
+font-weight: bold;
+}
+
+
+.carousel {
+margin: 25px auto;
+width: 100%;
+height: 600px;
+overflow: hidden;
+}
+
+
+.carousel-image {
+width: 100%;
+height: 100%;
+object-fit: cover;
+border-radius: 10px;
+}
+
+
+.body-content {
+padding: 20px;
+width: 80%;
+margin: auto;
+text-align: left;
+}
+
+
+.footer {
+background-color: #333;
+color: white;
+padding: 15px 0;
+margin-top: 40px;
+}
+
+
+.about-us {
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 20px;
+background-color: blue;
+color: white;
+padding: 10px;
+border-radius: 5px;
+}
+
+.vision-mission {
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 20px;
+background-color: blue;
+color: white;
+padding: 10px;
+border-radius: 5px;
+}
+
